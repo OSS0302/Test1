@@ -10,7 +10,7 @@ public class DiaryMain {
 	Check check =new Check(); 
 
 	
-	System.out.println("!!!나의 일기장입니다.! ");
+	System.out.println("!나의 일기장입니다.!!~~~ ");
 	System.out.println("1번 입장하기");
 	int Diary = sc.nextInt();
 
